@@ -4,6 +4,4 @@ Projeto em Desenvolvimento.
 
 Tecnologias utilizadas:
 
-Java
-Springboot
-H2
+Java, Springboot, H2

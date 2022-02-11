@@ -6,5 +6,4 @@ import com.springproject.course.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 	
-	
 }

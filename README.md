@@ -1,6 +1,6 @@
 Repositório do curso Java Completo
 
-~ Projeto Concluido
+~ Projeto temporariamente Concluido
 
 Tecnologias utilizadas:
 
